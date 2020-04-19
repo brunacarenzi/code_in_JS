@@ -1,0 +1,55 @@
+body {
+    background-color:#97cfdb;
+    font:normal 15px Arial;
+    box-sizing: 200px;
+    padding: 20px;
+    width: 800px;
+    height: 800px;
+    margin:auto;
+    box-shadow: 2px 2px 7px #1d2528;
+    
+
+}
+    
+header {
+    color:black;
+    text-align: center;
+    padding: 15px ;
+
+}
+
+
+section {
+    background-color: white;
+    border-radius: 18px;
+    padding: 10px;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    box-shadow: 5px 5px 10px #1d2528;
+
+}
+        
+
+div{
+    text-align: center;
+    padding: 35px;
+    margin: auto ;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+
+img.foto{
+    background-size:500px;
+}
+
+
+
+
+footer {
+    text-align: center;
+    color:black;
+    
+
+}
